@@ -1,0 +1,14 @@
+.team-roles-div {
+    width: 932px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.our-team-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    margin-top: 195.85px;
+}

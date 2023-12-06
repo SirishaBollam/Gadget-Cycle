@@ -1,0 +1,66 @@
+.admin-donations-info-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+
+.page-heading h1 {
+    color: #000;
+    font-family: Plus Jakarta Sans;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin: 0;
+    text-align: left;
+}
+
+.page-heading {
+    margin-top: 55px;
+    width: 1068px;
+}
+
+.indi-corp-form-contianer {
+    margin-top: 55px;
+}
+
+#donations-info-indi-corp-form-contianer {
+    width: 1068px;
+}
+
+.admin-don-info-page-tracking-container {
+    width: 1068px;
+    background-color: #fff;
+    border: solid 1px #D6D6D6;
+    border-radius: 26px;
+    margin-bottom: 80px;
+    box-sizing: border-box;
+    padding-top: 74px;
+    padding-left: 84px;
+    padding-right: 88px;
+    padding-bottom: 74px;
+}
+
+.admin-don-info-page-tracking-total-container .heading-div h2 {
+    color: #000;
+    font-family: Plus Jakarta Sans;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.admin-don-info-page-tracking-total-container .heading-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.heading-key-value-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    gap: 36px;
+}

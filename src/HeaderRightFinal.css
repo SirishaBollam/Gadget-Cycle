@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=AR+One+Sans&family=Inter:wght@100;300;500&family=Lato:wght@900&display=swap');
+
+.con-header-right-final {
+    display: flex;
+    gap: 12px;
+    margin-left: 6px;
+    height: 40px;
+    width: 197px;
+    margin-right: 63px;
+}
+
+.con-header-right-final  #btn_donate {
+    margin: 0;
+    padding: 0;
+    border-radius: 12px;
+    border: 1px solid #CDD3DB;
+    background-color: white;
+    height: 40px;
+    width: 88.09px;
+    color: #31373D;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; 
+    letter-spacing: -0.2px;
+}
+
+.con-header-right-final  #btn_login {
+    margin: 0;
+    padding: 0;
+    height: 40px;
+    width: 75.52px;
+    border-radius: 12px;
+    border: 1px solid #505967;
+    background: #1D1E20;
+    box-shadow: 0px 1px 0px 0px rgba(27, 31, 35, 0.20);
+    color: #EDEEF0;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; 
+    letter-spacing: -0.2px;
+}

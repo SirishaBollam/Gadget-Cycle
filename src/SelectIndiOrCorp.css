@@ -1,0 +1,64 @@
+.select-indi-or-corp-container {
+    height: 508px;
+    width: 664px;
+    border-radius: 26px;
+    border: 1px solid #D6D6D6;
+    background: #F9F9F9;
+    margin-top: 115px;
+}
+
+.indi-corp-button {
+    border: 1px solid #D6D6D6;
+    outline: none;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    height: 188px;
+    width: 199.42px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    color: #000;
+    font-family: Plus Jakarta Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    border-radius: 26px;
+}
+
+.div-para-select-indi-corp {
+    margin-top: 36px;
+}
+
+.div-para-select-indi-corp p {
+    margin: 0;
+    padding: 0;
+    color: #333;
+    font-family: Plus Jakarta Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.indi-corp-buttons-div {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70.04px;
+    margin-top: 83px;
+}
+
+.select-indi-or-corp-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+
+.image-indi-corp {
+    margin-top: 31px;
+}

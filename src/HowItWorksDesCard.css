@@ -1,0 +1,56 @@
+.how-it-works-des-card h4 {
+    color: #808A99;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 500;
+    line-height: 36px; 
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: left;
+}
+
+.how-it-works-des-card h5 {
+    color: #ACB4BF;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20.8px; 
+    text-align: left;
+}
+
+.how-it-works-des-card .des {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 116.8px;
+    width: 461px;
+}
+
+.top-to-bottom {
+    height: 116.8px;
+    width: 8px;
+    background: linear-gradient(180deg, #000 0%, #FFF 100%);
+}
+
+.bottom-to-top {
+    height: 116.8px;
+    width: 8px;
+    background: linear-gradient(180deg, #FFF 0%, #000 100%);
+}
+
+.how-it-works-des-card {
+    height: 350px;
+    width: 584px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.how-it-works-des-card-inside-div {
+    height: 116.8px;
+    width: 504px;
+    display: flex;
+    justify-content: space-between;
+}

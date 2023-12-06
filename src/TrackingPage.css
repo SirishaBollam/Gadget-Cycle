@@ -1,0 +1,90 @@
+.tarcking-page-container {
+    width: 545px;
+    border-radius: 26px;
+    border: 1px solid #D6D6D6;
+    background: #FFF;
+    box-sizing: border-box;
+    padding-bottom: 43px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    margin-top: 139px;
+    margin-bottom: 139px;
+}
+
+.tarcking-page-container .heading {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: start;
+    width: 451px;
+    height: 71px;
+    margin-top: 53px;
+}
+
+.tarcking-page-container .heading h1 {
+    color: #000;
+    font-family: Plus Jakarta Sans;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    margin: 0;
+    padding: 0;
+}
+
+.tarcking-page-container .heading h4 {
+    color: #000;
+    font-family: Plus Jakarta Sans;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin: 0;
+    padding: 0;
+}
+
+.tracking-number-copy-page-div {
+    margin-top: 28px;
+}
+
+.tracking-status-page-div {
+    box-sizing: border-box;
+    width: 455px;
+    padding-left: 21.21px;
+    margin-top: 38px;
+}
+
+.para-request-donation-info {
+    color: #262E36;
+    text-align: center;
+    font-family: Plus Jakarta Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100%; 
+    letter-spacing: -0.3px;
+    margin: 0;
+    margin-top: 27px;
+    max-width: 409px;
+}
+
+.tracking-page-whole-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+
+.para-request-donation-info-div {
+    text-align: center;
+    width: 409px;
+}
+
+.tracking-page-conditional-render-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}

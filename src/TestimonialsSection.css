@@ -1,0 +1,8 @@
+.testimonials-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 24.02px;
+    margin-top: 85.5px;
+    margin-bottom: 174.91px;
+}

@@ -1,0 +1,21 @@
+.admin-donations-page-heading h1 {
+    margin: 0;
+    color: #000;
+    font-family: Plus Jakarta Sans;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-align: left;
+}
+
+.admin-donations-page-heading {
+    width: 1130px;
+}
+
+.admin-donations-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}

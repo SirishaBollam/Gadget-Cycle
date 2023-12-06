@@ -1,0 +1,29 @@
+.donations-shop-box {
+    width: 1130px;
+    height: 158.793px;
+    border-radius: 26px;
+    border: 1px solid #D6D6D6;
+    background: #FFF;
+}
+
+.donations-shop-box-lower-row {
+    display: flex;
+    margin-top: 26.81px;
+    gap: 20px;
+}
+
+.box-info-div {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+}
+
+.donations-shop-box {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    padding-left: 38px;
+    padding-right: 38px;
+}

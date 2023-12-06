@@ -1,0 +1,22 @@
+.admin-products-page .heading {
+    width: 1130px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 48px;
+}
+
+.admin-products-page .heading h1 {
+    color: #000;
+    font-family: Plus Jakarta Sans;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.admin-products-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}

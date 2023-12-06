@@ -1,0 +1,42 @@
+.two-input-form {
+    width: 545px;
+    height: 483px;
+    border-radius: 26px;
+    border: 1px solid #D6D6D6;
+    background: #FFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+}
+
+.two-input-form .heading {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    width: 461px;
+    margin-top: 71px;
+}
+
+.two-input-form .heading h1 {
+    padding: 0;
+    margin: 0;
+    color: #000;
+    font-family: Plus Jakarta Sans;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.two-input-form .heading h4 {
+    padding: 0;
+    margin: 0;
+    color: #000;
+    font-family: Plus Jakarta Sans;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

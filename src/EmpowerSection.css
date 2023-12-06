@@ -1,0 +1,77 @@
+.empower-section h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    max-width: 811px;
+    color: #1D1E20;
+    text-align: center;
+    font-family: Helvetica Neue;
+    font-size: 90px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 88.32px; 
+    letter-spacing: -3.6px;
+}
+
+.empower-section h5 {
+    position: absolute;
+    top: 277.94px;
+    max-width: 617px;
+    color: #31373D;
+    text-align: center;
+    font-family: Inter;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30.8px; 
+    letter-spacing: -0.3px;
+}
+
+.empower-image {
+    position: absolute;
+    top: 324.94px;
+    left: 194px;
+    width: 1052px;
+    height: 579px;
+}
+
+.empower-section button {
+    position: absolute;
+    left: 675px;
+    top: 380px;
+    margin: 0;
+    padding: 0;
+    height: 50px;
+    width: 88.52px;
+    border-radius: 12px;
+    border: 1px solid #505967;
+    background: #1D1E20;
+    box-shadow: 0px 1px 0px 0px rgba(27, 31, 35, 0.20);
+    color: #EDEEF0;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px; 
+    letter-spacing: -0.2px;
+    z-index: 1;
+}
+
+.empower-section-heading {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.empower-section {
+    padding-top: 67.94px;
+    position: relative;
+    height: 1356.15px;
+    box-sizing: border-box;
+}
+
+.proud-partners {
+    position: absolute;
+    top: 900px;
+}

@@ -1,0 +1,38 @@
+.aboutus-top-section h1 {
+    margin: 0;
+    color: #1D1E20;
+    text-align: center;
+    font-family: Helvetica Neue;
+    font-size: 90px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 88.32px; 
+    letter-spacing: -3.6px;
+}
+
+.aboutus-top-section h4 {
+    margin: 0;
+    color: #31373D;
+    text-align: center;
+    font-family: Inter;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30.8px; 
+    letter-spacing: -0.3px;
+    max-width: 617px;
+    margin-top: 25.06px;
+}
+
+.aboutus-top-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    margin-top: 111.94px;
+}
+
+.aboutus-top-section .heading {
+    display: flex;
+    flex-direction: column;
+}

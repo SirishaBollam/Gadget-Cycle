@@ -1,0 +1,38 @@
+.product-info-technical-detail-odd .key {
+    width: 312px;
+    height: 56px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    box-sizing: border-box;
+    padding-left: 12px;
+}
+
+.product-info-technical-detail-odd .value {
+    width: 666px;
+    height: 56px;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    margin: 0;
+    box-sizing: border-box;
+    padding-left: 12px;
+}
+
+.product-info-technical-detail-odd h1 {
+    color: #717171;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin: 0;
+}
+
+.product-info-technical-detail-odd {
+    width: 1440px;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,27 @@
+.category-buttons-div {
+    display: flex;
+    justify-content: center;
+    gap: 26.5px;
+    margin-top: 18px;
+}
+
+.shop-page-container {
+    background: radial-gradient(70.71% 70.71% at 50% 50%, #FBFBFB 47.02%, rgba(250, 250, 250, 0.00) 100%);
+}
+
+.grid-shop-container {
+    display: grid;
+    grid-template-columns: repeat(3, 301px);
+    column-gap: 20px;
+    row-gap: 26px;
+}
+
+.grid-shop-page-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    margin-top: 71px;
+    margin-bottom: 80px;
+    background: radial-gradient(70.71% 70.71% at 50% 50%, #FBFBFB 47.02%, rgba(250, 250, 250, 0.00) 100%);
+}

@@ -1,0 +1,43 @@
+.proud-heading {
+    height: 146px;
+    width: 718px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.proud-heading h2 {
+    color: #000;
+    text-align: center;
+    font-family: Helvetica Neue;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 57.2px; 
+    letter-spacing: -1.2px;
+    margin: 0;
+}
+
+.company-logos {
+    margin-top: 40px;
+    width: 1080px;
+    height: 130px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.company-logos-line {
+    width: 1080px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.proud-partners {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,42 @@
+.gadget-info-row-div {
+    width: 343px;
+    height: 32px;
+    display: flex;
+}
+
+.gadget-info-row-key-div {
+    height: 32px;
+    width: 184px;
+    display: flex;
+    align-items: center;
+}
+
+.gadget-info-row-value-div {
+    height: 32px;
+    width: 159px;
+    display: flex;
+    align-items: center;
+}
+
+.gadget-info-row-key-div p {
+    color: var(--neutral-gray-717171, #717171);
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin: 0;
+    text-align: left;
+    margin-left: 16.25px;
+}
+
+.gadget-info-row-value-div p {
+    color: var(--Black, #0C0C0C);
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin: 0;
+    text-align: left;
+}

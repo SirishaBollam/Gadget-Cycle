@@ -1,0 +1,27 @@
+.form-input {
+    border-radius: 10px;
+    border: 1px solid #EAEAEA;
+    background: #FFF;
+    color: #333;
+    font-family: Plus Jakarta Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    padding-left: 26.65px;
+    box-sizing: border-box;
+}
+
+.form-input::placeholder {
+    color: #B0A9A9;
+    font-family: Plus Jakarta Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.form-input:focus {
+    outline: none;
+    box-shadow: 0px 10px 40px 0px rgba(174, 174, 174, 0.20);
+}

@@ -1,0 +1,37 @@
+.label-copy-div {
+    display: flex;
+    justify-content: space-between;
+    height: 53px;
+    margin-top: 14px;
+}
+
+.label-copy-div input {
+    color: #000;
+    font-family: Plus Jakarta Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    width: 302px;
+    height: 53px;
+    border-radius: 10px;
+    border: 1px solid #EAEAEA;
+    box-sizing: border-box;
+    background: #FFF;
+    outline: none;
+    padding-left: 21px;
+}
+
+.tracking-number-copy-div label {
+    color: var(--grey-800, #262E36);
+    font-family: Plus Jakarta Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100%; 
+    letter-spacing: -0.3px;
+}
+
+.tracking-number-copy-div {
+    text-align: left;
+}

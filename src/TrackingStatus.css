@@ -1,0 +1,54 @@
+.tracking-status-div .blue-circle {
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;
+    background-color: #007AFF;
+}
+
+.tracking-status-div .circle {
+    height: 12px;
+    width: 12px;
+    border-radius: 50%;
+    background-color: #FFF;
+    border: 1px solid #BABABA;
+    box-sizing: border-box;
+}
+
+.tracking-status-div .line-sep {
+    height: 40px;
+    width: 1px;
+    background-color: #BABABA;
+    margin-left: 5.5px;
+}
+
+.tracking-status-div .blue-line-sep {
+    height: 40px;
+    width: 1px;
+    background-color: #007AFF;
+    margin-left: 5.5px;
+}
+
+.tracking-status-row {
+    display: flex;
+    width: 300px;
+    height: 15px;
+    align-items: center;
+}
+
+.tracking-status-row p {
+    color: var(--grey-800, #262E36);
+    font-family: Plus Jakarta Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100%; 
+    letter-spacing: -0.3px;
+    margin: 0;
+    padding-left: 17.77px;
+}
+
+.tracking-status-div {
+    display: flex;
+    flex-direction: column;
+    gap: 8.01px;
+}

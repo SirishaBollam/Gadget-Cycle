@@ -1,0 +1,113 @@
+.signup-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    background: radial-gradient(70.71% 70.71% at 50% 50%, #FBFBFB 47.02%, rgba(250, 250, 250, 0.00) 100%);
+}
+
+.signup-page-container {
+    width: 538px;
+    height: 956px;
+    border-radius: 26px;
+    border: 1px solid #D6D6D6;
+    background: #FFF;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}
+
+.signup-page-container .heading {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    width: 100%;
+    height: 75px;
+    box-sizing: border-box;
+    padding-left: 39.15px;
+    margin-top: 62.9px;
+}
+
+.signup-page-container .heading h1 {
+    padding: 0;
+    margin: 0;
+    color: #000;
+    font-family: Plus Jakarta Sans;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.signup-page-container .heading h4 {
+    padding: 0;
+    margin: 0;
+    color: #000;
+    font-family: Plus Jakarta Sans;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.signup-form-aux-link {
+    margin-top: 24px;
+    width: 100%;
+    text-align: center;
+}
+
+.signup-form-aux-link p {
+    display: inline;
+    color: #333;
+    font-family: Plus Jakarta Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.signup-form-aux-link a {
+    color: #333;
+    font-family: Plus Jakarta Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+
+.terms-and-conditions-check {
+    display: flex;
+    align-items: center;
+}
+
+.terms-and-conditions-check div p {
+    margin: 0;
+    color: #333;
+    font-family: Plus Jakarta Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.terms-and-conditions-check input {
+    width: 21.494px;
+    height: 21.494px;
+    border-radius: 5px;
+    border: 1px solid #D6D6D6;
+    margin: 0;
+    margin-right: 22px;
+}
+
+.terms-and-conditions-check-div {
+    display: flex;
+    justify-content: left;
+    align-items: end;
+    width: 454.786px;
+    margin-left: 40px;
+    margin-top: 34.94px;
+}

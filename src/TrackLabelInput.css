@@ -1,0 +1,40 @@
+.track-input-label {
+    color: #262E36;
+    font-family: Plus Jakarta Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 100%; 
+    letter-spacing: -0.3px;
+    padding: 0;
+    margin: 0;
+    margin-top: 16px;
+}
+
+.track-input {
+    color: #B0A9A9;
+    font-family: Plus Jakarta Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    height: 53px;
+    width: 451px;
+    border-radius: 10px;
+    border: 1px solid #EAEAEA;
+    background: #FFF;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    padding-left: 16px;
+    margin-top: 14px;
+    outline: none; 
+}
+
+.track-label-input-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    width: 451px;
+}

@@ -1,0 +1,7 @@
+.con-logo {
+    height: 52px;
+    width: 253px;
+    margin-left: 58px;
+    margin-right: 401px;
+    background: url('./logo_gc.png') white 50% / cover no-repeat;
+}

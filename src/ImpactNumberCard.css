@@ -1,0 +1,33 @@
+.impact-number-card {
+    width: 367px;
+    height: 128px;
+    box-sizing: border-box;
+    padding: 26px 75.67px 25px 34px;
+    border-radius: 12px;
+    border: 2px solid #F6F5F4;
+    background: #F6F5F4;
+}
+
+.impact-number-card h2 {
+    text-align: left;
+    color: #000;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: Inter;
+    font-size: 53px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 58px; 
+    letter-spacing: -1.627px;
+}
+
+.impact-number-card h5 {
+    text-align: left;
+    color: #121212;
+    font-family: Inter;
+    font-size: 13.5px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 19px; 
+    letter-spacing: 0.047px;
+}

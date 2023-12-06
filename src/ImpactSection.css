@@ -1,0 +1,25 @@
+.impact-number-cards {
+    width: 1152px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.impact-content img {
+    margin-top: 35.15px;
+    height: 444.94px;
+    width: 1152px;
+    border-radius: 12px;
+}
+
+.impact-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 97px;
+    margin-bottom: 209.06px;
+}
+
+.impact-section {
+    margin-top: 211px;
+}

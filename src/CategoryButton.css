@@ -1,0 +1,15 @@
+.category-button {
+    width: 166.497px;
+    height: 47px;
+    border-radius: 5px;
+    border: 1px solid #000;
+    background: #FFF;
+    color: var(--gray-600, #505050);
+    text-align: center;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}

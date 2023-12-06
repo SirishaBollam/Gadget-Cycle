@@ -1,0 +1,42 @@
+.big-div {
+    margin-top: 64.01px;
+    overflow: hidden;
+    display: flex;
+    box-sizing: border-box;
+    width: 1155px;
+    height: 780px;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 20px;
+    background: #FFF;
+    box-shadow: 0px 0px 0px 4px #F3F4F7, 0px 0px 0px 3.5px #F9F9FB, 0px 0px 0px 1px rgba(228, 229, 233, 0.60), 0px 0px 0px 0.5px #E4E5E9;
+}
+
+.big-div p {
+    color: #555E67;
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 39.2px; 
+    letter-spacing: -0.2px;
+    margin-top: 40px;
+    max-width: 1021px;
+}
+
+.our-story-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    margin-top: 175.94px;
+}
+
+.purpose-cards-row-div {
+    width: 1155px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}

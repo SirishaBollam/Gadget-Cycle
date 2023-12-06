@@ -1,0 +1,31 @@
+.gradient-background {
+    height: 350px;
+    width: 584px;
+    border-radius: 32px;
+    position: relative;
+    overflow: hidden;
+}
+
+.left-blur {
+    height: 361.48px;
+    width: 361.48px;
+    position: absolute;
+    top: 120.69px;
+    left: -101.74px;
+    border-radius: 361.48px;
+    opacity: 0.1396;
+    background: red;
+    filter: blur(50px);
+}
+
+.right-blur {
+    height: 361.48px;
+    width: 361.48px;
+    position: absolute;
+    top: 199.51px;
+    right: -101.74px;
+    border-radius: 361.48px;
+    opacity: 0.1396;
+    background: red;
+    filter: blur(50px);
+}

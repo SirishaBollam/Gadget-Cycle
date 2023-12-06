@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=AR+One+Sans&family=Inter:wght@100;300;500&family=Lato:wght@900&display=swap');
+
+.footer {
+    background: #1C1D1F;
+    color: #9098A0;
+    padding: 20px 0;
+    box-sizing: border-box;
+    height: 39vw;
+    width: 100vw;
+  }
+
+  .footer-content {
+    display: flex;
+    margin-left: 4vw;
+  }
+
+  .footer-section h5 {
+    margin-top: 0;
+    text-align: left;
+    color: #9098A0;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 19.6px; 
+    letter-spacing: -0.1px;
+    margin-bottom: 1vw;
+  }
+  
+  .footer-section ul {
+    text-align: left;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  li {
+    padding: 0;
+    margin: 0;
+  }
+  
+  .footer-section ul li {
+    margin-bottom: 0.5vw;
+  }
+  
+  a {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    color: #666B71;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 19.6px; 
+    letter-spacing: -0.1px;
+  }
+
+  .footer-section.support-info {
+    margin-left: 12.6vw;
+  }
+
+  .footer-section {
+    padding: 0;
+    margin-top: 9vw;
+  }
+
+  .footer-bottom {
+    color: #666B71;
+    font-family: Inter;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16.5px; 
+    letter-spacing: -0.1px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  hr {
+    margin-top: 14.8vw;
+    border-top: 1px solid #3F3F3F;
+    border-bottom: none;
+  }
+
+  .footer-bottom ul li {
+    display: inline;
+  }
+
+  .footer-bottom a {
+    color: #666B71;
+    font-family: Inter;
+    font-size: 11px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16.5px; 
+    letter-spacing: -0.1px;
+  }
+
+  .footer-bottom.left-section {
+    margin-left: 5.6vw;
+  }
+
+  .footer-bottom.right-section {
+    margin-right: 5.6vw;
+  }
+
+  .terms {
+    margin-right: 2.4vw;
+  }
+
+  .terms li {
+    margin-left: 0.22vw;
+  }
+
+  .social-icons li {
+    margin-left: 0.8vw;
+  }
